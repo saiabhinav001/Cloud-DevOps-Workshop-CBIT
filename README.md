@@ -17,4 +17,8 @@ docker run -d -p 8080:80 resume-app
 
 ### Day 1 Take-home assignment: Dockerize any web app of your choice
 
+# Day 2 Commands:
+## sudo apt update -y
+## sudo apt upgrade -y
+
 
