@@ -20,5 +20,6 @@ docker run -d -p 8080:80 resume-app
 # Day 2 Commands:
 ## sudo apt update -y
 ## sudo apt upgrade -y
+## git clone https://github.com/yeshwanthlm/Cloud-DevOps-Workshop-CBIT.git
 
 
